@@ -21,6 +21,7 @@ int pos = 0 ;
 
 int REDled = 6;
 int greenled = 5;
+int helloworld ;
 
 int buzzer = 8 ;
 int disabledht = 0 ;
